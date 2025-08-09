@@ -186,6 +186,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{D3C9F263-752C-3C4A-B482-706C2E9F95CE}</Project>
       <Name>app</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\achuv\UAE-option-prediction\build\binomial_demo.vcxproj">
+      <Project>{54A7E45E-24D1-3C29-BB6D-DA93ADC93A6F}</Project>
+      <Name>binomial_demo</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Users\achuv\UAE-option-prediction\build\core.vcxproj">
       <Project>{405CF88A-D40C-3FA6-BAD5-194A69685CA0}</Project>
       <Name>core</Name>

@@ -1,163 +1,223 @@
-Start testing: Aug 09 18:00 Arabian Standard Time
+Start testing: Aug 09 21:04 Arabian Standard Time
 ----------------------------------------------------------
-1/8 Testing: Black-Scholes prices (no dividends)
-1/8 Test: Black-Scholes prices (no dividends)
+1/11 Testing: Black-Scholes prices (no dividends)
+1/11 Test: Black-Scholes prices (no dividends)
 Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "Black-Scholes prices (no dividends)"
 Directory: C:/Users/achuv/UAE-option-prediction/build
-"Black-Scholes prices (no dividends)" start time: Aug 09 18:00 Arabian Standard Time
+"Black-Scholes prices (no dividends)" start time: Aug 09 21:04 Arabian Standard Time
 Output:
 ----------------------------------------------------------
 Filters: "Black-Scholes prices (no dividends)"
-Randomness seeded to: 3165992998
+Randomness seeded to: 332609384
 ===============================================================================
 All tests passed (3 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"Black-Scholes prices (no dividends)" end time: Aug 09 18:00 Arabian Standard Time
+"Black-Scholes prices (no dividends)" end time: Aug 09 21:04 Arabian Standard Time
 "Black-Scholes prices (no dividends)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-2/8 Testing: OTM/ITM (no dividends)
-2/8 Test: OTM/ITM (no dividends)
+2/11 Testing: OTM/ITM (no dividends)
+2/11 Test: OTM/ITM (no dividends)
 Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "OTM/ITM (no dividends)"
 Directory: C:/Users/achuv/UAE-option-prediction/build
-"OTM/ITM (no dividends)" start time: Aug 09 18:00 Arabian Standard Time
+"OTM/ITM (no dividends)" start time: Aug 09 21:04 Arabian Standard Time
 Output:
 ----------------------------------------------------------
 Filters: "OTM/ITM (no dividends)"
-Randomness seeded to: 1481797002
+Randomness seeded to: 1480502634
 ===============================================================================
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"OTM/ITM (no dividends)" end time: Aug 09 18:00 Arabian Standard Time
+"OTM/ITM (no dividends)" end time: Aug 09 21:04 Arabian Standard Time
 "OTM/ITM (no dividends)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-3/8 Testing: CSV loader reads two rows
-3/8 Test: CSV loader reads two rows
+3/11 Testing: CSV loader reads two rows
+3/11 Test: CSV loader reads two rows
 Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "CSV loader reads two rows"
 Directory: C:/Users/achuv/UAE-option-prediction/build
-"CSV loader reads two rows" start time: Aug 09 18:00 Arabian Standard Time
+"CSV loader reads two rows" start time: Aug 09 21:04 Arabian Standard Time
 Output:
 ----------------------------------------------------------
 Filters: "CSV loader reads two rows"
-Randomness seeded to: 2191619792
+Randomness seeded to: 2796968925
 ===============================================================================
 All tests passed (4 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"CSV loader reads two rows" end time: Aug 09 18:00 Arabian Standard Time
+"CSV loader reads two rows" end time: Aug 09 21:04 Arabian Standard Time
 "CSV loader reads two rows" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-4/8 Testing: Delta (no dividends)
-4/8 Test: Delta (no dividends)
+4/11 Testing: Delta (no dividends)
+4/11 Test: Delta (no dividends)
 Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "Delta (no dividends)"
 Directory: C:/Users/achuv/UAE-option-prediction/build
-"Delta (no dividends)" start time: Aug 09 18:00 Arabian Standard Time
+"Delta (no dividends)" start time: Aug 09 21:04 Arabian Standard Time
 Output:
 ----------------------------------------------------------
 Filters: "Delta (no dividends)"
-Randomness seeded to: 749713513
+Randomness seeded to: 1808337744
 ===============================================================================
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"Delta (no dividends)" end time: Aug 09 18:00 Arabian Standard Time
+"Delta (no dividends)" end time: Aug 09 21:04 Arabian Standard Time
 "Delta (no dividends)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-5/8 Testing: Delta OTM/ITM (no dividends)
-5/8 Test: Delta OTM/ITM (no dividends)
+5/11 Testing: Delta OTM/ITM (no dividends)
+5/11 Test: Delta OTM/ITM (no dividends)
 Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "Delta OTM/ITM (no dividends)"
 Directory: C:/Users/achuv/UAE-option-prediction/build
-"Delta OTM/ITM (no dividends)" start time: Aug 09 18:00 Arabian Standard Time
+"Delta OTM/ITM (no dividends)" start time: Aug 09 21:04 Arabian Standard Time
 Output:
 ----------------------------------------------------------
 Filters: "Delta OTM/ITM (no dividends)"
-Randomness seeded to: 3720983757
+Randomness seeded to: 3841133409
 ===============================================================================
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"Delta OTM/ITM (no dividends)" end time: Aug 09 18:00 Arabian Standard Time
+"Delta OTM/ITM (no dividends)" end time: Aug 09 21:04 Arabian Standard Time
 "Delta OTM/ITM (no dividends)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-6/8 Testing: Vega no-dividends
-6/8 Test: Vega no-dividends
+6/11 Testing: Vega no-dividends
+6/11 Test: Vega no-dividends
 Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "Vega no-dividends"
 Directory: C:/Users/achuv/UAE-option-prediction/build
-"Vega no-dividends" start time: Aug 09 18:00 Arabian Standard Time
+"Vega no-dividends" start time: Aug 09 21:04 Arabian Standard Time
 Output:
 ----------------------------------------------------------
 Filters: "Vega no-dividends"
-Randomness seeded to: 535258004
+Randomness seeded to: 471176326
 ===============================================================================
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"Vega no-dividends" end time: Aug 09 18:00 Arabian Standard Time
+"Vega no-dividends" end time: Aug 09 21:04 Arabian Standard Time
 "Vega no-dividends" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-7/8 Testing: IV (call) Newton+bisection recovers sigma across moneyness
-7/8 Test: IV (call) Newton+bisection recovers sigma across moneyness
+7/11 Testing: IV (call) Newton+bisection recovers sigma across moneyness
+7/11 Test: IV (call) Newton+bisection recovers sigma across moneyness
 Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "IV (call) Newton+bisection recovers sigma across moneyness"
 Directory: C:/Users/achuv/UAE-option-prediction/build
-"IV (call) Newton+bisection recovers sigma across moneyness" start time: Aug 09 18:00 Arabian Standard Time
+"IV (call) Newton+bisection recovers sigma across moneyness" start time: Aug 09 21:04 Arabian Standard Time
 Output:
 ----------------------------------------------------------
 Filters: "IV (call) Newton+bisection recovers sigma across moneyness"
-Randomness seeded to: 2981076089
+Randomness seeded to: 1788099073
 ===============================================================================
 All tests passed (3 assertions in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"IV (call) Newton+bisection recovers sigma across moneyness" end time: Aug 09 18:00 Arabian Standard Time
+"IV (call) Newton+bisection recovers sigma across moneyness" end time: Aug 09 21:04 Arabian Standard Time
 "IV (call) Newton+bisection recovers sigma across moneyness" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-8/8 Testing: Implied vol (put) recovers true sigma
-8/8 Test: Implied vol (put) recovers true sigma
+8/11 Testing: Implied vol (put) recovers true sigma
+8/11 Test: Implied vol (put) recovers true sigma
 Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "Implied vol (put) recovers true sigma"
 Directory: C:/Users/achuv/UAE-option-prediction/build
-"Implied vol (put) recovers true sigma" start time: Aug 09 18:00 Arabian Standard Time
+"Implied vol (put) recovers true sigma" start time: Aug 09 21:04 Arabian Standard Time
 Output:
 ----------------------------------------------------------
 Filters: "Implied vol (put) recovers true sigma"
-Randomness seeded to: 1473810085
+Randomness seeded to: 2823086474
 ===============================================================================
 All tests passed (1 assertion in 1 test case)
 
 <end of output>
-Test time =   0.02 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"Implied vol (put) recovers true sigma" end time: Aug 09 18:00 Arabian Standard Time
+"Implied vol (put) recovers true sigma" end time: Aug 09 21:04 Arabian Standard Time
 "Implied vol (put) recovers true sigma" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Aug 09 18:00 Arabian Standard Time
+9/11 Testing: Binomial converges to Black-Scholes (euro call, q=0)
+9/11 Test: Binomial converges to Black-Scholes (euro call, q=0)
+Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "Binomial converges to Black-Scholes (euro call\, q=0)"
+Directory: C:/Users/achuv/UAE-option-prediction/build
+"Binomial converges to Black-Scholes (euro call, q=0)" start time: Aug 09 21:04 Arabian Standard Time
+Output:
+----------------------------------------------------------
+Filters: "Binomial converges to Black-Scholes (euro call\, q=0)"
+Randomness seeded to: 1644399267
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Binomial converges to Black-Scholes (euro call, q=0)" end time: Aug 09 21:04 Arabian Standard Time
+"Binomial converges to Black-Scholes (euro call, q=0)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/11 Testing: American call with q=0 equals European
+10/11 Test: American call with q=0 equals European
+Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "American call with q=0 equals European"
+Directory: C:/Users/achuv/UAE-option-prediction/build
+"American call with q=0 equals European" start time: Aug 09 21:04 Arabian Standard Time
+Output:
+----------------------------------------------------------
+Filters: "American call with q=0 equals European"
+Randomness seeded to: 2011470848
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"American call with q=0 equals European" end time: Aug 09 21:04 Arabian Standard Time
+"American call with q=0 equals European" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/11 Testing: American call with dividends >= European
+11/11 Test: American call with dividends >= European
+Command: "C:/Users/achuv/UAE-option-prediction/build/bin/Debug/tests.exe" "American call with dividends >= European"
+Directory: C:/Users/achuv/UAE-option-prediction/build
+"American call with dividends >= European" start time: Aug 09 21:04 Arabian Standard Time
+Output:
+----------------------------------------------------------
+Filters: "American call with dividends >= European"
+Randomness seeded to: 3753868804
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"American call with dividends >= European" end time: Aug 09 21:04 Arabian Standard Time
+"American call with dividends >= European" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 09 21:04 Arabian Standard Time

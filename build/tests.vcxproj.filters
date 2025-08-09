@@ -16,6 +16,9 @@
     <ClCompile Include="C:\Users\achuv\UAE-option-prediction\tests\test_iv.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\achuv\UAE-option-prediction\tests\test_binomial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\achuv\UAE-option-prediction\CMakeLists.txt" />
