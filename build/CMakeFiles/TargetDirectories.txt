@@ -1,6 +1,10 @@
-C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/pricer-cli.dir
-C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/csv_loader.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/core.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/app.dir
 C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/tests.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/Experimental.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/Nightly.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/Continuous.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/NightlyMemoryCheck.dir
 C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/RUN_TESTS.dir
 C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,1 +1,5 @@
-C:\Users\achuv\UAE-option-prediction\tests\test_basic.cpp;C:\Users\achuv\UAE-option-prediction\build\tests.dir\Debug\test_basic.obj
+C:\Users\achuv\UAE-option-prediction\tests\test_bs.cpp;C:\Users\achuv\UAE-option-prediction\build\tests.dir\Debug\test_bs.obj
+C:\Users\achuv\UAE-option-prediction\tests\test_csv.cpp;C:\Users\achuv\UAE-option-prediction\build\tests.dir\Debug\test_csv.obj
+C:\Users\achuv\UAE-option-prediction\tests\test_greeks.cpp;C:\Users\achuv\UAE-option-prediction\build\tests.dir\Debug\test_greeks.obj
+C:\Users\achuv\UAE-option-prediction\tests\test_vega.cpp;C:\Users\achuv\UAE-option-prediction\build\tests.dir\Debug\test_vega.obj
+C:\Users\achuv\UAE-option-prediction\tests\test_iv.cpp;C:\Users\achuv\UAE-option-prediction\build\tests.dir\Debug\test_iv.obj
