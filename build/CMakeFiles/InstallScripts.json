@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/achuv/UAE-option-prediction/build/cmake_install.cmake",
+		"C:/Users/achuv/UAE-option-prediction/build/_deps/catch2-build/cmake_install.cmake",
+		"C:/Users/achuv/UAE-option-prediction/build/_deps/catch2-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

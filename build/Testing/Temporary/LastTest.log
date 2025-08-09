@@ -1,0 +1,22 @@
+Start testing: Jul 31 12:41 Arabian Standard Time
+----------------------------------------------------------
+1/1 Testing: all_unit_tests
+1/1 Test: all_unit_tests
+Command: "C:/Users/achuv/UAE-option-prediction/build/Debug/tests.exe"
+Directory: C:/Users/achuv/UAE-option-prediction/build
+"all_unit_tests" start time: Jul 31 12:41 Arabian Standard Time
+Output:
+----------------------------------------------------------
+Randomness seeded to: 2058868423
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"all_unit_tests" end time: Jul 31 12:41 Arabian Standard Time
+"all_unit_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 31 12:41 Arabian Standard Time

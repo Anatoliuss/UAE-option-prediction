@@ -1,0 +1,11 @@
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/pricer-cli.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/csv_loader.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/tests.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/achuv/UAE-option-prediction/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/achuv/UAE-option-prediction/build/_deps/catch2-build/CMakeFiles/RUN_TESTS.dir
+C:/Users/achuv/UAE-option-prediction/build/_deps/catch2-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/achuv/UAE-option-prediction/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/achuv/UAE-option-prediction/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+C:/Users/achuv/UAE-option-prediction/build/_deps/catch2-build/src/CMakeFiles/RUN_TESTS.dir

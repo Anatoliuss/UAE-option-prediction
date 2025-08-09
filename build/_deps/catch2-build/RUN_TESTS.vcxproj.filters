@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\achuv\UAE-option-prediction\build\CMakeFiles\706a363e0a129986113cde4316d0288a\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C0EA4CE7-FD03-3B68-9709-CFA83A8100F9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

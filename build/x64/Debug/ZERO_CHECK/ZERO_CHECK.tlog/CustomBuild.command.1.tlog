@@ -1,0 +1,10 @@
+^C:\USERS\ACHUV\UAE-OPTION-PREDICTION\BUILD\CMAKEFILES\AB26E297D8F97CB8D45576C2789B6F03\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/achuv/UAE-option-prediction -BC:/Users/achuv/UAE-option-prediction/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/achuv/UAE-option-prediction/build/UAEOptionPricer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
