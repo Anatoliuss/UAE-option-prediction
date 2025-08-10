@@ -406,6 +406,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\achuv\UAE-option-prediction\tests\test_vega.cpp" />
     <ClCompile Include="C:\Users\achuv\UAE-option-prediction\tests\test_iv.cpp" />
     <ClCompile Include="C:\Users\achuv\UAE-option-prediction\tests\test_binomial.cpp" />
+    <ClCompile Include="C:\Users\achuv\UAE-option-prediction\tests\test_mc.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

@@ -54,7 +54,7 @@ inline double norm_pdf(double x) {
     return INV_SQRT_2PI * std::exp(-0.5 * x * x);
 }
 
-// Vega (no dividends). Same for calls & puts.
+// VegaS
 inline double vega(double S, double K, double r, double sigma, double T) {
     auto [D1, D2] = compute_d1d2(S, K, r, sigma, T);
     return S * norm_pdf(D1) * std::sqrt(T);

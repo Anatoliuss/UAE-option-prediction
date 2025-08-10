@@ -1,19 +1,23 @@
 all_unit_tests 4 0.0032491
 tests_NOT_BUILT-b12d07c 0 0
 BlackΓÇôScholes prices (no dividends) 0 0
-OTM/ITM (no dividends) 19 0.00211664
-CSV loader reads two rows 17 0.00193655
-Black-Scholes prices (no dividends) 18 0.0024716
-Delta (no dividends) 15 0.00246503
-Delta OTM/ITM (no dividends) 15 0.00236863
-Vega no-dividends 14 0.0022842
+OTM/ITM (no dividends) 23 0.000736457
+CSV loader reads two rows 21 0.000759533
+Black-Scholes prices (no dividends) 22 0.000805523
+Delta (no dividends) 19 0.00103431
+Delta OTM/ITM (no dividends) 19 0.000924695
+Vega no-dividends 18 0.000931861
 IV via Newton matches known sigma (call) 1 0.0180332
-IV (call) Newton+bisection recovers sigma across moneyness 11 0.00307566
-Implied vol (put) recovers true sigma 10 0.00293836
+IV (call) Newton+bisection recovers sigma across moneyness 15 0.00145303
+Implied vol (put) recovers true sigma 14 0.0013132
 Binomial model basic test 2 0.0175116
 Binomial converges to BlackΓÇôScholes (euro call, q=0) 0 0
-American call with q=0 equals European 6 0.00582802
-American call with dividends >= European 6 0.0054669
+American call with q=0 equals European 10 0.00224144
+American call with dividends >= European 10 0.00185635
 Binomial converges to Black - Scholes (euro call, q=0) 0 0
-Binomial converges to Black-Scholes (euro call, q=0) 1 0.0308734
+Binomial converges to Black-Scholes (euro call, q=0) 5 0.00382382
+MC converges to BlackΓÇôScholes (euro call, q=0) 0 0
+MC put vs BS (q=0) 2 0.0118436
+MC handles edge cases T=0 and sigma=0 2 0.00893735
+MC converges to Black - Scholes (euro call, q=0) 1 0.0261708
 ---

@@ -14,25 +14,19 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(Catch2)
 
-# ---- Your code ----
-# Header-only BS lives in include/, CSV loader is compiled
 add_library(core STATIC
   src/csv_loader.cpp
 )
 target_include_directories(core PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 
-# (Optional) CLI app if you want to run src/main.cpp
 add_executable(app src/main.cpp)
-# ---- Binomial demo runner ----
 add_executable(binomial_demo
   src/binomial_main.cpp
 )
-# header-only, but linking core is fine if your runner will also use CSV/etc.
 target_link_libraries(binomial_demo PRIVATE core)
 
 target_link_libraries(app PRIVATE core)
 
-# ---- Tests ----
 enable_testing()
 add_executable(tests
   tests/test_bs.cpp
@@ -41,6 +35,7 @@ add_executable(tests
   tests/test_vega.cpp
   tests/test_iv.cpp
   tests/test_binomial.cpp
+  tests/test_mc.cpp
 )
 target_link_libraries(tests PRIVATE core Catch2::Catch2WithMain)
 target_compile_definitions(tests PRIVATE PROJECT_SOURCE_DIR="${CMAKE_CURRENT_SOURCE_DIR}")
