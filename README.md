@@ -31,7 +31,7 @@ Closed-form solution for European options assuming:
 * Black, F., & Scholes, M. (1973). *The Pricing of Options and Corporate Liabilities*. Journal of Political Economy, 81(3).
 * Merton, R.C. (1973). *Theory of Rational Option Pricing*. Bell Journal of Economics and Management Science, 4(1).
 
-2. Binomial Options Pricing Model
+###2. Binomial Options Pricing Model
 
 Discrete-time model where the underlying price moves up ($u$) or down ($d$) each step:
 
@@ -43,7 +43,7 @@ The model builds a recombining price tree and works backwards from terminal payo
 
 ---
 
-3. Monte Carlo Simulation
+###3. Monte Carlo Simulation
 
 Simulates many possible future prices using GBM:
 The option price is the discounted mean payoff. Variance reduction via antithetic variates is supported.
@@ -52,3 +52,5 @@ The option price is the discounted mean payoff. Variance reduction via antitheti
 
 * Boyle, P.P. (1977). *Options: A Monte Carlo Approach*. Journal of Financial Economics, 4(3).
 * Glasserman, P. (2003). *Monte Carlo Methods in Financial Engineering*. Springer.
+
+Data for the project was taken from Yahoo! Finance
