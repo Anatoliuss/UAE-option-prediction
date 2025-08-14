@@ -60,7 +60,7 @@ inline double binomial_price(
                 }
                 V[j] = std::max(cont, ex);
             } else { //if European option, just take the continuation value
-                V[j] = cont;
+                V[j] = cont; //note: should converge to BS, with N -> inf
             }
         }
     }

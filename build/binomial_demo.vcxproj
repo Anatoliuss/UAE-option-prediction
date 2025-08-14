@@ -352,7 +352,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\achuv\UAE-option-prediction\src\binomial_main.cpp" />
+    <ClCompile Include="C:\Users\achuv\UAE-option-prediction\src\main.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

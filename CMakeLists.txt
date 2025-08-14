@@ -21,7 +21,7 @@ target_include_directories(core PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 
 add_executable(app src/main.cpp)
 add_executable(binomial_demo
-  src/binomial_main.cpp
+  src/main.cpp
 )
 target_link_libraries(binomial_demo PRIVATE core)
 

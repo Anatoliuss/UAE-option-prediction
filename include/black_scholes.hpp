@@ -6,7 +6,7 @@
 //It computes the option prices, Greeks (delta, vega), and implied volatility.
 //Black-Scholes assumption: stock price follows Geometric Brownian Motion (GBM)
 //Black-Scholes PDE: ∂C/∂t + 0.5σ²S²∂²C/∂S² + (r-q)S∂C/∂S - rC = 0
-//Solving for european type (no dividends):
+//Solving for european type :
 //Black-Scholes formula: C(S, K, T) = S * N(d1) - K * e^(-rT) * N(d2)
 //Letters meaning:
 // S = current stock price
